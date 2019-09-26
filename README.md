@@ -1,6 +1,6 @@
 
 
-# Awesome Processing 
+# Awesome Generative Processing Technologies  
 
 The following links have been curated from sites I've used for years to get better at using the skills necessary to create some interesting generative ideas.  
 
@@ -32,7 +32,8 @@ Though this isn't the pure implementation of the Java based processing kernel; i
 ## People to Follow
 The following pros usually have multiple sites
 
-| Person | Instagram | Twitter | Github |
+| Person | Instagram | Twitter | Github | 
 |---|---|---|---|
-|Chris Ried|[generative.collective](https://instagram.com/generative.collective)|cdr6934|cdr6934|
+|Zach Lieberman|[Zach Lieberman](https://instagram.com/zachlieberman)|||
+|Chris Ried|[generative.collective](https://instagram.com/generative.collective)|[cdr6934](https://twitter.com/cdr6934)|[cdr6934](https://github.com/cdr6934)|
 
