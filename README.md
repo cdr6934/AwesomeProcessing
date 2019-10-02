@@ -1,7 +1,7 @@
 
 
 # Awesome Processing Language Resources   
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 The following links have been curated from sites I've used for years to get better at using the skills necessary to create some interesting generative ideas.  
 
@@ -30,7 +30,7 @@ The following repositories are in my opinion the best place to start learning ho
 The following groups are not entirely processing only; however there is much 
 ### Reddit 
 * [Generative Art](https://reddit.com/r/generativeart) 
-* [Procedural Generation(https://www.reddit.com/r/proceduralgeneration/)
+* [Procedural Generation](https://www.reddit.com/r/proceduralgeneration/)
 
 ### Discourse
 * [Official Processing Community](https://discourse.processing.org)
