@@ -14,6 +14,11 @@ The following links have been curated from sites I've used for years to get bett
 * [The Code Train]() 
 This is a great site on learning how to step through a problem and translate it to code.
 
+### Blogs 
+* [Inconvergent](https://inconvergent.net/)
+A generative art project by Anders Hoff. The project explores the interesting and complex hebavior you can get from systems consisting of simple rules. 
+* [Tyler Hobbs](https://tylerxhobbs.com/essays)
+* [Tobias Toft](https://medium.com/@tobiastoft)
 
 ### Code Repositories
 The following repositories are in my opinion the best place to start learning how to create generative art. Once you have used a programming language and understand the concept of the logic flow within a program; the best way to really understand code is to read it. Here are some influential ones: 
